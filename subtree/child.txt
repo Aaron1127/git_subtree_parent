@@ -1,2 +1,3 @@
 child
 new child
+go
